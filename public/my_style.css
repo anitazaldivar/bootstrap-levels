@@ -10,3 +10,17 @@
 .primary_button:hover {
   background-color:rgb(28, 28, 179);
 }  
+
+.secondary_button {
+  background-color:gray;
+}
+.secondary_button:hover {
+  background-color:rgb(83, 81, 81);
+}  
+
+.success_button {
+  background-color:green;
+}
+.success_button:hover {
+  background-color:darkgreen;
+}  
