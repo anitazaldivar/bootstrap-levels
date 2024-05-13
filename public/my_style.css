@@ -1,0 +1,12 @@
+
+.base_button {
+  color: white;
+  border-radius: 5px ;
+  padding: 5px;
+}
+.primary_button {
+  background-color:blue;
+}
+.primary_button:hover {
+  background-color:rgb(28, 28, 179);
+}  
